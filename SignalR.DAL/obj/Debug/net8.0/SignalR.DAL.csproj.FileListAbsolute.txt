@@ -1,0 +1,17 @@
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.AssemblyInfo.cs
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.DAL.deps.json
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.DAL.runtimeconfig.json
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.DAL.dll
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.DAL.pdb
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.EntityLayer.dll
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\bin\Debug\net8.0\SignalR.EntityLayer.pdb
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR..EB6AFF29.Up2Date
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.dll
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\refint\SignalR.DAL.dll
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.pdb
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\SignalR.DAL.genruntimeconfig.cache
+C:\Users\faruk\source\repos\SignalRProject\SignalR.DAL\obj\Debug\net8.0\ref\SignalR.DAL.dll
