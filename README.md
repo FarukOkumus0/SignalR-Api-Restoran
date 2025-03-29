@@ -17,18 +17,18 @@ Real-Time İstatistik
 Real-Time Bildirim
 Mail Gönderme İşlemleri
 
-![Image](https://github.com/user-attachments/assets/2e1dff27-922c-47a1-8959-3e6e595fd221)
+![Image](https://github.com/user-attachments/assets/0ba25155-5221-4567-81b2-b73b0049ef07)
 
-![Image](https://github.com/user-attachments/assets/7f322c33-3700-479e-934c-385ebc590896)
+![Image](https://github.com/user-attachments/assets/18051c33-5d01-4d70-b769-54f4d6723c8e)
 
-![Image](https://github.com/user-attachments/assets/8b18a7de-00de-468d-8ed9-4f748462e905)
+![Image](https://github.com/user-attachments/assets/b2a6933c-b21e-4dea-b9db-7f3880199b17)
 
-![Image](https://github.com/user-attachments/assets/8d6b6691-b1a9-4326-b616-c608c41b01c9)
+![Image](https://github.com/user-attachments/assets/7d897465-1c6d-47b6-b418-dcfa54ec5f4f)
 
-![Image](https://github.com/user-attachments/assets/2a96b8c2-75b6-4864-8aea-cffecd876a67)
+![Image](https://github.com/user-attachments/assets/29406662-d671-4b4e-8a89-b808fe18aabd)
 
-![Image](https://github.com/user-attachments/assets/1795c549-d34e-43c7-ada5-4ab6f23a1623)
+![Image](https://github.com/user-attachments/assets/5da1c19a-83c8-451b-801d-095c35c23640)
 
-![Image](https://github.com/user-attachments/assets/f2b5af71-2e4f-4ce0-9935-ce22ef3f78a0)
+![Image](https://github.com/user-attachments/assets/b3dfc6d8-212b-4ca3-9b04-6fde4a384b27)
 
-![Image](https://github.com/user-attachments/assets/d0141d2e-63a2-4700-accd-e59db2e30cfc)
+![Image](https://github.com/user-attachments/assets/7834d65d-cbdd-4611-ad1f-44596beb5002)
